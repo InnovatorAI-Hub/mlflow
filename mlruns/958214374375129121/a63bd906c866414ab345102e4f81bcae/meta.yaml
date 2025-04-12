@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflow/mlruns/958214374375129121/a63bd906c866414ab345102e4f81bcae/artifacts
+end_time: 1744447659338
+entry_point_name: ''
+experiment_id: '958214374375129121'
+lifecycle_stage: active
+run_id: a63bd906c866414ab345102e4f81bcae
+run_name: placid-goat-773
+run_uuid: a63bd906c866414ab345102e4f81bcae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744447659213
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/13566d34907640118935f6c04c7c3a7d/artifacts
+end_time: 1744447269618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13566d34907640118935f6c04c7c3a7d
+run_name: clean-goose-159
+run_uuid: 13566d34907640118935f6c04c7c3a7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744447269481
+status: 3
+tags: []
+user_id: codespace

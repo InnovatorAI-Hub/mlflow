@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlflow/mlruns/958214374375129121
+creation_time: 1744446929546
+experiment_id: '958214374375129121'
+last_update_time: 1744446929546
+lifecycle_stage: active
+name: produce_metrics

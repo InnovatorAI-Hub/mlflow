@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/43db0fa1661b4a8db860621fe4af1211/artifacts
+end_time: 1744445980754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43db0fa1661b4a8db860621fe4af1211
+run_name: skittish-hen-121
+run_uuid: 43db0fa1661b4a8db860621fe4af1211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744445980737
+status: 3
+tags: []
+user_id: codespace

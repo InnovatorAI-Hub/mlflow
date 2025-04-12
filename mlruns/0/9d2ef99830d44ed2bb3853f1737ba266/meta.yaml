@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9d2ef99830d44ed2bb3853f1737ba266/artifacts
+end_time: 1744445802894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d2ef99830d44ed2bb3853f1737ba266
+run_name: rare-gnat-308
+run_uuid: 9d2ef99830d44ed2bb3853f1737ba266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744445802884
+status: 3
+tags: []
+user_id: codespace

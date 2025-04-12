@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/737030a2e7174e679c75b3c9165a4fa8/artifacts
+end_time: 1744445880572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 737030a2e7174e679c75b3c9165a4fa8
+run_name: gentle-trout-288
+run_uuid: 737030a2e7174e679c75b3c9165a4fa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744445880553
+status: 3
+tags: []
+user_id: codespace
